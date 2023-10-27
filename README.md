@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wanesaf
 -  I’m currently learning java
-I just seach for fun ! 
+and I just seach for fun ! 
 
 <!---
 wanesaf/wanesaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
