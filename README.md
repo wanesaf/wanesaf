@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Souhil</h1>
+<h1 align="center">Hi, I'm Souhil</h1>
 <h3 align="center">Just for fun</h3>
 
-- 🌱 I’m currently learning **CSS**
+-  I’m currently learning **CSS**
 
-- 💬 Ask me about **C, Java**
+-  Ask me about **C, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
