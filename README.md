@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **CSS**
 
-- 💬 Ask me about **C,java**
+- 💬 Ask me about **C, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
