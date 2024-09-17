@@ -2,9 +2,6 @@
 <h3 align="center">Just for fun</h3>
 
 -  I’m currently learning **React.js**
-
--  Ask me about **C, Java**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/lfc.saf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lfc.saf" height="30" width="40" /></a>
