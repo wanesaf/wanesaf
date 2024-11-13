@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Souhil</h1>
 <h3 align="center">Just for fun</h3>
 
--  I’m currently learning **nodeJs*
+-  I’m currently learning **nodeJs**
 
 
 <h3 align="left">Languages and Tools:</h3>
