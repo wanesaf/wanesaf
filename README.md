@@ -1,7 +1,4 @@
-<h1 align="center">Souhil is here</h1>
-
-<h3 align="center">Just for fun</h3>
-
+<h3 align="center">Just for fun </h3>
 
 <h3 align="left">Languages and Tools:</h3>
  
