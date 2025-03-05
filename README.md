@@ -1,8 +1,12 @@
 <h3 align="center">Just for fun </h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Still Learning : </h3>
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="padding-right:10px;" align="left"/>  
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40" style="padding-right:10px;" align="left"/>
+          
    
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="padding-right:10px;" align="left"/> 
    
